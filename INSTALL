@@ -1,0 +1,4 @@
+Building cydercoin
+See doc/readme-qt.rst for instructions on building cydercoin QT.
+
+See doc/build-*.txt for instructions on building cydercoind.
